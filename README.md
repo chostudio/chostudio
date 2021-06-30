@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on coding a video game
-- 🌱 I’m currently learning how to become a software engineer
+- 🔭 I’m an aspiring software engineer
+- 🌱 I’m currently learning how to code a video game
 - ⚡ Fun fact: I like to create 3D art
 
 <!--
