@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on coding a video game
+- 🌱 I’m currently learning how to become a software engineer
+- ⚡ Fun fact: I like to create 3D art
+
 <!--
 **chostudio/chostudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
