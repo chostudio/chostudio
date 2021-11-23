@@ -2,7 +2,7 @@
 
 - 🔭 I’m an aspiring software engineer
 - 🌱 I’m currently learning how to code a video game
-- ⚡ Fun fact: I like to create 3D art
+- ⚡ Fun fact: I like to create 3D art in my spare time
 
 <!--
 **chostudio/chostudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
