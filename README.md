@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m an aspiring computer science student
+- 🔭 I’m currently a computer science student
 - 🌱 I’m currently learning how to code a video game
 - ⚡ Fun fact: I like to create 3D art in my spare time
 
