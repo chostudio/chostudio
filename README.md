@@ -4,8 +4,17 @@
 - 🌱 I’m currently learning how to code a video game
 - ⚡ Fun fact: I like to create 3D art in my spare time
 
+My Linkedin:
+<a href="https://www.linkedin.com/in/chris-ho-/"> 
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <!--
 **chostudio/chostudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Add Resume Link Button
+Add portfolio Link button
+
 
 Here are some ideas to get you started:
 
