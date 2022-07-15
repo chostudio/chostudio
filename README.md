@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning how to code a video game
 - ⚡ Fun fact: I like to create 3D art in my spare time
 
-My Linkedin:
 <a href=""> 
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
