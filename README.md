@@ -1,17 +1,21 @@
-### Hi there! 👋
+### Hi I'm Chris! I'm a computer science student looking to become a developer! 👋
 
-- 🔭 I’m currently a computer science student
-- 🌱 I’m learning how to code a video game
+- 🌱 I’m currently learning how to code a video game
 - ⚡ Fun fact: I like to create 3D art in my spare time
 
+## Connect with my Linkedin:
 <a href=""> 
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+## Languages and Tools:
+
+
+
 
 <!--
 **chostudio/chostudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Add Resume Link Button
+Add Resume Link Button & send to online host copy no need download
 Add portfolio Link button
 
 
