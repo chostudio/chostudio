@@ -1,4 +1,4 @@
-### Hi I'm Chris! I'm a computer science student & aspiring developer! 👋
+### Hi I'm Chris! I'm a CS student & aspiring developer! 👋
 
 - 🌱 I’m currently learning how to code a video game
 - ⚡ Fun fact: I like to create 3D art in my spare time
@@ -21,11 +21,8 @@
 
 
 <!--
-**chostudio/chostudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Add Resume Link Button & send to online host copy no need download
 Add portfolio Link button
-
 
 Here are some ideas to get you started:
 
