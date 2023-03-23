@@ -7,6 +7,8 @@
 <a href="https://www.linkedin.com/in/chris-ho-/"> 
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chostudio"/>
+
 ## Languages and Tools:
 
 
