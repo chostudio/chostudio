@@ -1,4 +1,4 @@
-### Hi I'm Chris! I'm a computer science student looking to become a developer! 👋
+### Hi I'm Chris! I'm a computer science student & aspiring developer! 👋
 
 - 🌱 I’m currently learning how to code a video game
 - ⚡ Fun fact: I like to create 3D art in my spare time
@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/chris-ho-/"> 
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br>
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
