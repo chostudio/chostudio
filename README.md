@@ -28,7 +28,7 @@
 ### Other:
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Affinity](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+![Affinity](https://img.shields.io/badge/affinitydesigner-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 
 <!--
 Add Resume Link Button & send to online host copy no need download
