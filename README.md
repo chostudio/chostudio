@@ -1,14 +1,17 @@
-### Hi I'm Chris! I'm a CS student & aspiring developer! 👋
-
+### Hi I'm Chris! 
+- 👋 I'm a CS student interested in Frontend & iOS Development
 - 🌱 I’m currently learning how to code a video game
-- ⚡ Fun fact: I like 3D modeling
+- ⚡ Fun Fact: I like 3D modeling
 
 ### Connect with my Linkedin:
 
 <a href="https://www.linkedin.com/in/chris-ho-/"> 
-  <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br>
+
+
+
+ 
 
 ### Languages and Tools:
 
