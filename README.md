@@ -1,7 +1,7 @@
 
 ### Hi I'm Chris! 
-- 👋 I'm a CS student interested in Frontend & iOS Development
-- 🌱 I’m currently learning how to code a video game
+- 👋 I'm a CS student interested in software development
+- 🌱 I’m currently learning how to program in C#
 - ⚡ Fun Fact: I like 3D modeling
 
 ### Connect with my Linkedin:
