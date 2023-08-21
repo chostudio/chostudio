@@ -2,7 +2,7 @@
 
 ### Hi I'm Chris! 
 - 👋 I'm a CS student interested in software development
-- 🌱 I’m currently learning about algorithms and data structures
+- 🌱 I’m currently learning about data structures and algorithms
 - ⚡ Fun Fact: I like 3D modeling
 
 ### Connect with my Linkedin:
