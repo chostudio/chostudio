@@ -11,6 +11,7 @@
 | ------------- |-------------|-----:|
 | [Beaver Eats](https://github.com/PotatoPresident/Beaver-Eats)  | Crowdsourced review website for places to eat on the Oregon State University campus.  |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [SMS Food Text](https://github.com/chostudio/food-sms-text)  | Sends a user a scheduled SMS text of Oregon State University's dining hall menus and hours of operations. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
+| [Laugh Lab](https://github.com/laughlab/LaughLab)  | A responsive frontend website for a hand sanitizer company. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
 | [Patent Searcher GUI](https://github.com/chostudio/patentSearcherGUI)  | A custom desktop patent searcher that uses the USPTO API. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
 | [Slingshot](https://github.com/chostudio/Slingshot)  | 2D hypercasual physics-based mobile game made with Unity. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
 | [AudioToText](https://github.com/chostudio/AudioToText)  | Website that generates the text transcript for a podcast given a link or an mp3 audio file. | 🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️ <br>40%  |
