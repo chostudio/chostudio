@@ -11,7 +11,7 @@
 | Project  | Description | Progress Bar |
 | ------------- |-------------|-----:|
 | [BeaverEats.org](https://github.com/chostudio/Beaver-Eats)  | Crowdsourced review website for places to eat on the Oregon State University campus. Won 2nd place in OSU Google Hacks. |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
-| [LaughLab.org](https://github.com/laughlab/LaughLab)  | A responsive frontend website for LaughLab, a hand sanitizer company. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
+| [LaughLab.org](https://github.com/chostudio/LaughLab)  | A custom website for LaughLab, a hand sanitizer startup. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
 | [Slingshot](https://github.com/chostudio/Slingshot)  | 2D hypercasual physics-based mobile game made with Unity. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
 | [StormShoppr](https://github.com/chostudio/StormShoppr)  | Web application that automatically preorders groceries if there’s an incoming hurricane. Created in 24 hours at HackMIT 2024. |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [PodcastToText](https://github.com/chostudio/PodcastToText)  | Website that generates the text transcript for a podcast from an mp3 audio file. | 🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️ <br>70%  |
