@@ -6,6 +6,7 @@
 - 🎮 Used to be a competitive Fortnite player, getting Victory Royales in regional tournaments.
 - 📚 I like reading fantasy/sci-fi novels and I've also written one!
 - ✏️ Taught myself how to write ambidextrously.
+- 💼 Currently working as an AI Applications Engineer Intern at Groq: [@cho-groq](https://github.com/cho-groq/)
 
 
 ## Projects
@@ -17,7 +18,7 @@
 | [Slingshot](https://github.com/chostudio/Slingshot)  | 2D hypercasual physics-based mobile game made with Unity. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
 | [StormShoppr](https://github.com/chostudio/StormShoppr)  | Web application that automatically preorders groceries if there’s an incoming hurricane. Created in 24 hours at HackMIT 2024. |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [ArctexSoftware.com](https://arctexsoftware.com)  | A 3D website for Arctex, a SaaS company developing productivity software and apps infused with AI. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>30%  |
-| [PodcastToText](https://github.com/chostudio/PodcastToText)  | Website that generates the text transcript for a podcast from an mp3 audio file. | 🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️ <br>70%  |
+| [PodcastToText](https://github.com/chostudio/PodcastToText)  | Website that generates the text transcript for a podcast from an mp3 audio file. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️ <br>90%  |
 | ScavengerHunt | An iOS computer vision photography game app, where users take a picture of an object prompt and earn in-game points! | 🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>10%  |
 | ???  | More projects to come soon! :) | ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>?%  |
 
