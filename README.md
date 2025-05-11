@@ -6,7 +6,7 @@
 - 🎮 Used to be a competitive Fortnite player, getting Victory Royales in regional tournaments.
 - 📚 I like reading fantasy/sci-fi novels and I've also written one!
 - ✏️ Taught myself how to write ambidextrously.
-- 💼 Currently working as an AI Applications Engineer Intern at Groq: [@cho-groq](https://github.com/cho-groq/)
+- 💼 Previously worked as an AI Applications Engineer Intern at Groq: [@cho-groq](https://github.com/cho-groq/)
 
 
 ## Projects
