@@ -10,15 +10,16 @@
 
 | Project  | Description | Progress Bar |
 | ------------- |-------------|-----:|
+
 | [BeaverEats.org](https://github.com/chostudio/Beaver-Eats)  | Crowdsourced review website for places to eat on the Oregon State University campus. Won 2nd place in OSU Google Hacks. |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
+| [Slingshot](https://github.com/chostudio/Slingshot)  | 2D physics-based infnite mobile game made with Unity. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
+| ???  | More projects coming soon! :) | ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>?%  |
+
+<!--
 | [LaughLab.org](https://github.com/chostudio/LaughLab)  | A custom website for LaughLab, a hand sanitizer startup. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
-| [Slingshot](https://github.com/chostudio/Slingshot)  | 2D hypercasual physics-based mobile game made with Unity. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
 | [StormShoppr](https://github.com/chostudio/StormShoppr)  | Web application that automatically preorders groceries if there’s an incoming hurricane. Created in 24 hours at HackMIT 2024. |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [PodcastToText](https://github.com/chostudio/PodcastToText)  | Website that generates the text transcript for a podcast from an mp3 audio file. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️ <br>90%  |
 | ScavengerHunt | An iOS computer vision photography game app, where users take a picture of an object prompt and earn in-game points! | 🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>10%  |
-| ???  | More projects to come soon! :) | ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>?%  |
-
-<!--
 | FormHelper | Website that uses computer vision to help people fill out forms faster and easier. | 🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>20%  |
 | [Patent Searcher GUI](https://github.com/chostudio/patentSearcherGUI)  | A custom desktop patent searcher that uses the USPTO API. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
 | [SMS Food Text](https://github.com/chostudio/food-sms-text)  | Sends a user a scheduled SMS text of Oregon State University's dining hall menus and hours of operations. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
