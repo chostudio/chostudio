@@ -13,7 +13,7 @@
 
 | Project  | Description | Progress Bar |
 | ------------- |-------------|-----:|
-| [Multi-Agent research assistant](https://github.com/chostudio/crewai-groq)  | AI Agent workflow that summarizes & extracts quotes from any PDF with a LangChain chatbot to talk with the paper. An official CrewAI + Groq tutorial.  |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
+| [Multi-Agent research assistant](https://github.com/chostudio/crewai-groq)  | AI Agent workflow that summarizes & extracts quotes from any PDF with a LangChain chatbot to talk with the paper. Became an official CrewAI + Groq tutorial.  |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [BlogWizard](https://github.com/chostudio/blogwizard)  | Generate entire structured blog articles from a YouTube video or audio using Groq, Whisper, and Llama3. |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [Voice AI Image Assistant](https://github.com/chostudio/voice-ai)  | Voice AI assistant that can analyze your image and talk about it using Groq & LiveKit. |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [BeaverEats.org](https://github.com/chostudio/Beaver-Eats)  | Crowdsourced review website for places to eat on the Oregon State University campus. Won 2nd place in OSU Google Hacks. |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
@@ -76,8 +76,8 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 -->
 
-### Connect with my Linkedin:
-💬 I’m currently seeking software engineering internships for summer 2025. Please feel free to connect or send me a message!
+### Connect on Linkedin:
+💬 I’m currently seeking a software engineering internship for summer 2026. Please feel free to connect or send me a message!
 
 <a href="https://www.linkedin.com/in/chris-ho-/"> 
   <img align="left" alt="Chris's LinkedIn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
