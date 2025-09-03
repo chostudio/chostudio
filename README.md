@@ -70,8 +70,8 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 -->
 
-### Connect with my Linkedin:
-💬 I’m currently seeking software engineering internships for summer 2025. Please feel free to connect or send me a message!
+### Connect on Linkedin:
+💬 I’m currently seeking a software engineering internship for summer 2026. Please feel free to connect or send me a message!
 
 <a href=""> 
   <img align="left" alt="Chris's LinkedIn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
