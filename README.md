@@ -71,7 +71,7 @@
 -->
 
 ### Connect on Linkedin:
-💬 I’m currently seeking a software engineering internship for summer 2026. Please feel free to connect or send me a message!
+<!--💬 I’m currently seeking a software engineering internship for summer 2026. Please feel free to connect or send me a message!-->
 
 <a href=""> 
   <img align="left" alt="Chris's LinkedIn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
