@@ -1,7 +1,7 @@
 [![GitHub Banner](GitHubBanner.png "GitHub Banner")](https://chrisho.dev)
 
 ### Hi I'm Chris! Here's some fun facts about me:
-- 👋 I'm a CS student focusing on Web/Mobile Development + AI.
+- 👋 I'm a CS student focusing on Fullstack Web Development + AI.
 - 🏆 Won a national game show-style trivia competition.
 - 🎮 Used to be a competitive Fortnite player, getting Victory Royales in regional tournaments.
 - 📚 I like reading fantasy/sci-fi novels and I've also written one!
