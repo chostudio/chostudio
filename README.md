@@ -4,7 +4,7 @@
 - 👋 I'm a CS student focusing on Fullstack Web Development + AI.
 - 🏆 Won a national game show-style trivia competition.
 - 🎮 Used to be a competitive Fortnite player, getting Victory Royales in regional tournaments.
-- 📚 I like reading fantasy/sci-fi novels and I've also written one!
+- 📚 I like reading fantasy/sci-fi novels!
 - ✏️ Taught myself how to write ambidextrously.
 - 💼 Previously worked as an AI Applications Engineer Intern at Groq: [@cho-groq](https://github.com/cho-groq/)
 
@@ -13,9 +13,11 @@
 
 | Project  | Description | Progress Bar |
 | ------------- |-------------|-----:|
-| [Multi-Agent research assistant](https://github.com/chostudio/crewai-groq)  | AI Agent workflow that summarizes & extracts quotes from any PDF with a LangChain chatbot to talk with the paper. Became an official CrewAI + Groq tutorial.  |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
+| [Manga Search Engine](https://gitlab.com/chostudio/manga) | Natural language search engine for manga panels using semantic embeddings. Powered by Angular, Django, OpenCV, OpenCLIP, and automated MangaDex scraping. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
+| [FarmOS](https://github.com/chostudio/farm) | Precision agriculture platform giving farmers real-time crop visibility via 3D Gaussian Splatting reconstructions and a Gemini AI pipeline for automated weed detection. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
+| [Training Rails](https://github.com/chostudio/rails) | Automated rail defect detection platform using a train-mounted camera, NVIDIA Jetson, and a custom YOLO model. Won 1st Place Hardware Track at BeaverHacks 2026. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
+| [Genshin Code Redeemer](https://github.com/chostudio/genshin-impact-redeem-code) | AI browser agent that automatically redeems Genshin Impact promo codes once a month. Built with Anchor Browser, JavaScript, and GitHub Actions. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% || [Multi-Agent research assistant](https://github.com/chostudio/crewai-groq)  | AI Agent workflow that summarizes & extracts quotes from any PDF with a LangChain chatbot to talk with the paper. Became an official CrewAI + Groq tutorial.  |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [BlogWizard](https://github.com/chostudio/blogwizard)  | Generate entire structured blog articles from a YouTube video or audio using Groq, Whisper, and Llama3. |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
-| [Voice AI Image Assistant](https://github.com/chostudio/voice-ai)  | Voice AI assistant that can analyze your image and talk about it using Groq & LiveKit. |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [BeaverEats.org](https://github.com/chostudio/Beaver-Eats)  | Crowdsourced review website for places to eat on the Oregon State University campus. Won 2nd place in OSU Google Hacks. |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [Slingshot](https://github.com/chostudio/Slingshot)  | 2D physics-based infnite mobile game made with Unity. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
 | [ArctexSoftware.com](https://arctexsoftware.com)  | A 3D website for Arctex, a SaaS company developing AI productivity software and apps. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100%  |
