@@ -11,7 +11,7 @@
 | Project  | Description | Progress Bar |
 | ------------- |-------------|-----:|
 | [Manga Search Engine](https://gitlab.com/chostudio/manga) | Natural language search engine for manga panels using semantic embeddings. Powered by Angular, Django, OpenCV, OpenCLIP, and automated MangaDex scraping. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
-| [FarmOS](https://github.com/chostudio/farm) | Precision agriculture platform giving farmers real-time crop visibility via 3D Gaussian Splatting reconstructions and a Gemini AI pipeline for automated weed detection. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
+| [3D Farm](https://github.com/chostudio/farm) | Precision agriculture platform giving farmers real-time crop visibility via 3D Gaussian Splatting reconstructions and a Gemini AI pipeline for automated weed detection. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [Training Rails](https://github.com/chostudio/rails) | Automated rail defect detection platform using a train-mounted camera, NVIDIA Jetson, and a custom YOLO model. Won 1st Place Hardware Track at BeaverHacks 2026. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [Genshin Code Redeemer](https://github.com/chostudio/genshin-impact-redeem-code) | AI browser agent that automatically redeems Genshin Impact promo codes once a month. Built with Anchor Browser, JavaScript, and GitHub Actions. | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
 | [BeaverEats.org](https://github.com/chostudio/Beaver-Eats)  | Crowdsourced review website for places to eat on the Oregon State University campus. Won 2nd place in OSU Google Hacks. |  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>100% |
