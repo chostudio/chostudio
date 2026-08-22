@@ -91,8 +91,6 @@
 ### Portfolio Website:
 #### [https://chrisho.dev](https://chrisho.dev)
 
-### My Resume:
-#### [https://chrisho.dev/Chris_Ho_Resume.pdf](https://chrisho.dev/Chris_Ho_Resume.pdf)
 
 <!--
 Add Resume Link Button & send to online host copy no need download
