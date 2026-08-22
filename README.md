@@ -86,8 +86,6 @@
 ### Portfolio Website:
 #### []()
 
-### My Resume:
-#### []()
 
 <!--
 Add Resume Link Button & send to online host copy no need download
