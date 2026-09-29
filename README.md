@@ -4,6 +4,7 @@
 - 🏆 Won a national game show-style trivia competition.
 - 🎮 Used to be a competitive Fortnite player, getting Victory Royales in regional tournaments.
 - ✏️ Taught myself how to write ambidextrously.
+- 💼 Previously interned as a Software Engineer Intern at Apple
 
 
 ## Projects
