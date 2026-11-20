@@ -1,4 +1,3 @@
-
 ### Hi I'm Chris! Here's some fun facts about me:
 - 👋 I'm a CS student focusing on Fullstack Web Development + AI.
 - 🏆 Won a national game show-style trivia competition.
@@ -74,20 +73,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 -->
-
-### Connect on Linkedin:
-<!--💬 I’m currently seeking a software engineering internship for summer 2026. Please feel free to connect or send me a message!-->
-
-<a href=""> 
-  <img align="left" alt="Chris's LinkedIn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
-</a>
-
-<br>
-<br>
-
-### Portfolio Website:
-#### []()
-
 
 <!--
 Add Resume Link Button & send to online host copy no need download
